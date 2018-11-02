@@ -89,4 +89,4 @@ I implement Twiddle to automate parameter optimization process. However, it need
 ## Simulation
 
 
-A short video with the final parameters is [./videos/final-parameters.mov](./videos/final_param_video.mp4).
+A short video with the final parameters is [./videos/final-parameters.mov](./video/final_param_video.mp4).

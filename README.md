@@ -63,7 +63,7 @@ Using the right arrow, you need to go to the Project 4: PID Controller project:
 
 ![Simulator PID controller project](images/Simulator_PID.png)
 
-Click the "Select" button, and the car starts driving. You will see the debugging information on the PID controller terminal. A short video with the final parameters is [./video/final_param_video.mp4](./video/final_param_video.mp4).
+Click the "Select" button, and the car starts driving. You will see the debugging information on the PID controller terminal. A short video for steering controller with final parameters is [./videos/param_no_throttle.mp4](./videos/param_no_throttle.mp4).
 
 
 ### Effect of the P, I, D components had in controller.
@@ -89,4 +89,4 @@ I implement Twiddle to automate parameter optimization process. However, it need
 ## Simulation
 
 
-A short video with the final parameters is [./video/final_param_video.mp4](./video/final_param_video.mp4).
+A short video for system with both steering and throttle PID controller with the final parameters is [./video/final_param_video.mp4](./videos/final_param_video.mp4).

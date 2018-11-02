@@ -89,4 +89,4 @@ I implement Twiddle to automate parameter optimization process. However, it need
 ## Simulation
 
 
-A short video for system with both steering and throttle PID controller with the final parameters is [./video/final_param_video.mp4](./videos/final_param_video.mp4).
+A short video for system with both steering and throttle PID controller with the final parameters is [./videos/final_param_video.mp4](./videos/final_param_video.mp4).
